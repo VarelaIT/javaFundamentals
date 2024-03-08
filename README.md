@@ -23,4 +23,8 @@
   
 * ### Reference
 
+  * #### Object
+    * The class Object is a superclass of all other classes.
+  * #### String
+    * String literals and text blocks are references to instances of class String.
 ...
