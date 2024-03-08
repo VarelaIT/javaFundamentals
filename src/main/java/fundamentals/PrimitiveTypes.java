@@ -18,5 +18,7 @@ public class PrimitiveTypes {
                 "\n";
 
         System.out.println(primitiveValuesDescription);
+
     }
+
 }
