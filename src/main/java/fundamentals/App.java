@@ -1,6 +1,7 @@
 package fundamentals;
 
 import referenceTypes.LongestCommonPrefix;
+import tryCatch.ExceptionsStatement;
 
 public class App {
 
@@ -20,5 +21,7 @@ public class App {
         LongestCommonPrefix commonPrefix= new LongestCommonPrefix();
 
         System.out.println("\t\tThe solution is: " + commonPrefix.solution(stringInput));
+
+        ExceptionsStatement except = new ExceptionsStatement();
     }
 }
